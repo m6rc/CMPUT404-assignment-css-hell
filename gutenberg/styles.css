@@ -1,0 +1,135 @@
+/* New */
+
+/* for 1.html, pride & prejudice */
+p {
+    font-family: "Apple Chancery", cursive;
+}
+.caption {
+    font-size:85%;
+    text-align:center;
+    font-family: "American Typewriter", serif;
+    font-weight:bold;
+    font-style: italic;
+}
+
+.caption p{
+    text-align:center;
+    font-family: "American Typewriter", serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+body{
+    margin:0;
+    background:#dbceaf;
+    color:black;
+    font-family:"Times New Roman", serif;font-size:medium;
+    box-shadow:inset 5px 5px 140px 30px #c29e4c;
+    text-align: justify;
+}
+
+.bodydiv{
+    margin:0;
+    padding: 8%;
+}
+
+img {
+    border:none;
+    mix-blend-mode: multiply;
+}
+
+.pagenum  {
+    position:absolute;
+    left:95%;
+    font-size:60%;
+    text-align:right;
+    color:black;
+    text-indent:1em;
+}
+
+h1 {margin-top:5%;
+    text-align:center;
+    clear:both;
+    font-weight:normal;
+    font-family: 'Luminari';
+}
+
+h2 {margin-top:8%;margin-bottom:4%;text-align:center;clear:both;
+    font-size:100%;font-family: 'Luminari';}
+
+/* for 2.html and 3.html, Dostoevsky */
+
+
+
+
+
+
+
+/* Existing for 1.html */
+a:link {color:blue;text-decoration:none;}
+
+link {color:blue;text-decoration:none;}
+
+a:visited {color:purple;text-decoration:none;}
+
+a:hover {color:#FF0000;text-decoration:underline;}
+
+.blk {page-break-before:always;page-break-after:always;
+margin:2em auto;}
+
+.cbig250 {text-align:center;text-indent:0%;font-weight:normal;
+font-size:200%;}
+
+.blockquot {margin-top:2%;margin-bottom:2%;}
+
+.c {text-align:center;text-indent:0%;}
+
+.fint {text-align:center;text-indent:0%;
+margin-top:2em;font-size:65%;}
+
+.figcenter   {margin:3% auto 3% auto;clear:both;
+text-align:center;text-indent:0%;}
+
+.figleft     {float:left;clear:left;margin-left:0;margin-bottom:1em;margin-top:1em;margin-right:1em;padding:0;text-align:center;}
+
+h3 {margin:4% auto 2% auto;text-align:center;clear:both;}
+
+hr {width:90%;margin:2em auto 2em auto;clear:both;color:black;}
+
+hr.full {width: 60%;margin:2% auto 2% auto;border-top:1px solid black;
+    padding:.1em;border-bottom:1px solid black;border-left:none;border-right:none;}
+
+.lftspc {margin-left:.25em;}
+
+.letra {font-size:250%;float:left;margin-top:-1%;}
+
+.nind {text-indent:0%;}
+
+p {margin-top:1em;text-align:justify;margin-bottom:1em;text-indent:4%;}
+
+.r {text-align:right;margin-right: 5%;}
+
+.rt {text-align:right;}
+
+.rtb {text-align:right;vertical-align:bottom;}
+
+small {font-size: 70%;}
+
+sup {font-size:75%;vertical-align:top;}
+
+.smcap  {font-variant:small-caps;font-size:100%;}
+
+table {margin:2% auto;border:none;}
+
+table p{padding-left:2em;text-indent:-1em;}
+
+td {padding-top:.15em;}
+
+th {padding-top:.5em;padding-bottom:.25em;}
+
+tr {vertical-align:top;}
+
+.toc {border:2px solid black;
+padding:.5em;margin:1em auto;
+max-width:60%;text-align:center;
+text-indent:0%;}
