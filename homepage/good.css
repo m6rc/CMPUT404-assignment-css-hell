@@ -1,0 +1,84 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    clear: both;
+    font-family: 'Verdana';
+}
+
+h2{
+    font-family: 'Verdana';
+    font-weight:lighter;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    width: 35%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #c8c0ac;
+}
+
+.contact{
+    padding: 1.5%;
+    font-family: 'Verdana';
+    background-color: #be9a3e;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sidebar{ 
+    width: 25%;
+    float: right;
+    margin-right: 4%;
+    border: 0;
+    background-color: rgb(162, 204, 218);
+    padding: 1%;
+    margin-top: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.section{
+    width: 65%;
+}
+
+.bodydiv{
+    background-color: rgb(219, 246, 255);
+    padding: 2%
+}
+
+.header{
+    background-color: blue;
+    padding: 1%;
+}
+
+.text{
+    background-image: linear-gradient(45deg, #ffffff, #9e7100);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+body{
+    background-color: rgb(219, 246, 255);
+    margin:0;
+}
+
+p{
+    text-align: justify;
+    margin-left: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
