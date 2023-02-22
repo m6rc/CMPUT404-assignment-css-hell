@@ -24,7 +24,7 @@ body{
     background:#dbceaf;
     color:black;
     font-family:"Times New Roman", serif;font-size:medium;
-    box-shadow:inset 5px 5px 140px 30px #c29e4c;
+    box-shadow:inset 5px 5px 140px 30px #c29e4c; /* Source:  http://css3generator.com/ */
     text-align: justify;
 }
 
@@ -34,7 +34,8 @@ body{
 }
 
 img {
-    border:none;
+    /* Source: https://stackoverflow.com/questions/12662759/make-white-background-of-image-transparent-in-css
+       Author: user1822264 */
     mix-blend-mode: multiply;
 }
 
