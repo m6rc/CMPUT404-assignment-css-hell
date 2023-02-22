@@ -26,6 +26,9 @@ gutenberg/ material comes from https://gutenberg.org
 
 Code is licensed under the Apache 2.0 license.
 
+## References
+CSS for text color gradient in good.css and bad.css: https://fossheim.io/writing/posts/css-text-gradient/, Author: Sarah L. Fossheim
+
 Gutenberg HTML mod
 =================
 
